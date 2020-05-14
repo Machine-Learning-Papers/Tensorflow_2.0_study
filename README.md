@@ -3,6 +3,6 @@
 http://www.yes24.com/Product/Goods/85729922
 <img src="/imgs/tf.png" width="70%" height="30%">
 # 방식
-시간이 날 때마다 책을 읽으면서 실습코드를 뜯어보면서 공부했습니다.
+시간이 날 때마다 책을 읽으면서 실습코드를 뜯어보면서 공부했습니다. 주로 google colaboratory에서 학습을 진행했습니다.
 # 기간
 2019년 겨울방학
